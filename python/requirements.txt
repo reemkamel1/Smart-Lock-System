@@ -1,0 +1,6 @@
+numpy
+sounddevice
+torch
+pyserial
+faster-whisper
+speechbrain
